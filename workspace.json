@@ -1,4 +1,13 @@
 {
   "version": 2,
-  "projects": {}
+  "projects": {
+    "demo-angular": "apps/demo-angular",
+    "demo-angular-e2e": "apps/demo-angular-e2e",
+    "demo-cli": "apps/demo-cli",
+    "demo-library": "libs/demo-library",
+    "demo-nestjs": "apps/demo-nestjs",
+    "demo-node": "apps/demo-node",
+    "demo-react": "apps/demo-react",
+    "demo-react-e2e": "apps/demo-react-e2e"
+  }
 }
